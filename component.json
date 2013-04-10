@@ -4,5 +4,6 @@
   "main": "index.scss",
   "description": "Adjust the font rendering in Webkit",
   "author": "Anthony Short",
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": ["README.md", ".gitignore"]
 }
