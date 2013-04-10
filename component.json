@@ -1,16 +1,8 @@
 {
-  "name": "anti-alias",
-  "repo": "fonzie/anti-alias",
+  "name": "fonzie-anti-alias",
+  "version": "0.0.1",
+  "main": "index.scss",
   "description": "Adjust the font rendering in Webkit",
   "author": "Anthony Short",
-  "main": "anti-alias.scss",
-  "version": "0.0.1",
-  "dependencies": {},
-  "remotes": [
-    "http://fonzie.herokuapp.com/packages"
-  ],
-  "files": [
-    "anti-alias.scss"
-  ],
   "license": "MIT"
 }
