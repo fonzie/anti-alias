@@ -1,6 +1,6 @@
 {
   "name": "fonzie-anti-alias",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "index.scss",
   "description": "Adjust the font rendering in Webkit",
   "author": "Anthony Short",

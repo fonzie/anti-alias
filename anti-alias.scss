@@ -1,4 +1,8 @@
-@mixin anti-alias {
+%fz-antiAlias {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+}
+
+@mixin fz-antiAlias {
+  @extend .fz-antiAlias;
 }
